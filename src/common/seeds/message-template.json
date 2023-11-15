@@ -1,0 +1,9 @@
+[{
+  "smsType": "verification-code",
+  "message": "کد تاییدیه :code",
+  "templateVariablesMapper": {
+    "token": "code"
+  },
+  "overrideTesterLock": true,
+  "templateLabel": "verification"
+}]
